@@ -2,7 +2,7 @@
 
 
 - 🚀 Engineering Student
-- ⚙️ Tech Enthusiast
+- ⚙️ ML Enthusiast 
   
 
 ### My Stats :<br/>
