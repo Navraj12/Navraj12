@@ -2,7 +2,7 @@
 
 
 - 🚀 Engineering Student
-- ⚙️ ML Enthusiast 
+- ⚙️ MERN stack developer
   
 
 ### My Stats :<br/>
