@@ -33,4 +33,17 @@ I have just completed my bachelor's degree at IOE WRC, specializing in Electroni
 - Instagram: [navraj.awasthi](https://www.instagram.com/navraj.awasthi/)
 
 ---
+<!--
+**Navraj12/Navraj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navraj12&layout=compact&theme=radical&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navraj12&theme=dark)](https://git.io/streak-stats)
+
 
