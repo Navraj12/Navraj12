@@ -44,6 +44,9 @@ I have just completed my bachelor's degree at IOE WRC, specializing in Electroni
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navraj12&layout=compact&theme=radical&count_private=true)
+
+
 
 
 
