@@ -22,7 +22,7 @@ I have just completed my bachelor's degree at IOE WRC, specializing in Electroni
 - **Languages**: JavaScript,Typescript C/C++, Python
 - **Web Development**: MongoDB, Express.js, React.js, Node.js (MERN)
 - **Electronics & Communication**: Circuit Design, Embedded Systems
-- **Other**: Git, Linux, Problem Solving, mysql
+- **Other**: Git,Github, Linux, Problem Solving, mysql
 
 ---
 
@@ -30,6 +30,7 @@ I have just completed my bachelor's degree at IOE WRC, specializing in Electroni
 
 - GitHub: [Navraj12](https://github.com/Navraj12)
 - LinkedIn: [Navraj Awasthi](https://www.linkedin.com/in/navraj-awasthi-b156a5261/)
+- Instagram:[navraj.awasthi](https://www.instagram.com/navraj.awasthi/)
 
 ---
 
