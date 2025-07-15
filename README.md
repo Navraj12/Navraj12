@@ -34,19 +34,3 @@ I have just completed my bachelor's degree at IOE WRC, specializing in Electroni
 
 ---
 
-<!--
-**Navraj12/Navraj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### My Stats :<br/>
-<img src="https://komarev.com/ghpvc/?username=Navraj12&style=flat-square&color=blue" alt=""/><br/>
-![Navraj Awasthi's Github stats](https://github-readme-stats.vercel.app/api?username=Navraj12&show_icons=true&theme=radical&count_private=true)
-
-
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navraj12&layout=compact&theme=radical&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navraj12&theme=dark)](https://git.io/streak-stats)
