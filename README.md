@@ -30,7 +30,7 @@ I have just completed my bachelor's degree at IOE WRC, specializing in Electroni
 
 - GitHub: [Navraj12](https://github.com/Navraj12)
 - LinkedIn: [Navraj Awasthi](https://www.linkedin.com/in/navraj-awasthi-b156a5261/)
-- Instagram:[navraj.awasthi](https://www.instagram.com/navraj.awasthi/)
+- Instagram: [navraj.awasthi](https://www.instagram.com/navraj.awasthi/)
 
 ---
 
